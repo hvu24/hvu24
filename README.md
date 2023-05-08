@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **to be an AWS certified developer.**
 
-- 👨‍💻 All of my projects are available at [https://hvu24.github.io/](https://hvu24.github.io/)
+- 👨‍💻 All of my projects are available at my [portfolio page](https://hvu24.github.io/)
 
 - 💬 Ask me about **Python, React, JavaScript**
 
