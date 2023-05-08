@@ -31,9 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvu24&show_icons=true&locale=en" alt="hvu24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvu24&" alt="hvu24" /></p>
-TeX             29 hrs 1 mins   🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.42 %
-C++             28 hrs 13 mins  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.85 %
-Markdown        28 hrs 12 mins  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.84 %
-Vue             24 hrs 21 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.13 %
-SystemVerilog   8 hrs 48 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.19 %
+![](https://github-readme-stats.vercel.app/api/wakatime?username={hvu24}&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
