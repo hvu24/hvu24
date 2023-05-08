@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A passionate frontend developer from the Bay Area</h3>
+<h3 align="center">A passionate software engineer from the Bay Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvu24&label=Profile%20views&color=0e75b6&style=flat" alt="hvu24" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hvu24@horizon.csueastbay.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gnzQwD2t7cU7gDSZmH6VxtAJYT4d2feI/view](https://drive.google.com/file/d/1gnzQwD2t7cU7gDSZmH6VxtAJYT4d2feI/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1gnzQwD2t7cU7gDSZmH6VxtAJYT4d2feI/view)
 
 - ⚡ Fun fact **I've bench pressed 355 pounds at 175lb body weight.**
 
