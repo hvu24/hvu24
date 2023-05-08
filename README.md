@@ -31,4 +31,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvu24&show_icons=true&locale=en" alt="hvu24" /></p>
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username={hvu24}&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+- uses: lowlighter/metrics@latest
+  with:
+    # ... other options
+    plugin_wakatime: yes
+    plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+    plugin_wakatime_days: 7                                   # Display last week stats
+    plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+    plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+    plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
+    plugin_wakatime_user: .user.login                         # User
