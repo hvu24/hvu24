@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MyFitnessMeter](https://myfitnessmeter.onrender.com)
 
-- 🌱 I’m currently learning **to be an AWS certified developer.**
+- 🌱 I’m currently learning to be an **AWS certified developer**
 
 - 👨‍💻 All of my projects are available at my [portfolio page](https://hvu24.github.io/)
 
