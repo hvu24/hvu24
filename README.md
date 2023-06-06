@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences here on my [resume](https://drive.google.com/file/d/1gnzQwD2t7cU7gDSZmH6VxtAJYT4d2feI/view)
 
-- ⚡ Fun fact **I've bench pressed 355 pounds at 175 pounds body weight.**
+- ⚡ Fun fact **I've bench pressed 355 pounds at 175 pounds body weight**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
