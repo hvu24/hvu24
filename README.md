@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, React, JavaScript**
 
-- 📫 How to reach me **hvu24@horizon.csueastbay.edu**
+- 📫 You can reach me at **hvu24@horizon.csueastbay.edu**
 
 - 📄 Know about my experiences here on my [resume](https://drive.google.com/file/d/1gnzQwD2t7cU7gDSZmH6VxtAJYT4d2feI/view)
 
