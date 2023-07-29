@@ -2,9 +2,6 @@
 <h3 align="center">A software engineer with a background in biology from the San Francisco, Bay Area</h3>
 <h3 align="center"> Cat dad | Fitness enthusiast | Data visualization addict</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hvu24&label=Profile%20views&color=0e75b6&style=flat" alt="hvu24" /> </p>
-
 - 🔭 I’m currently working on [MyFitnessMeter](https://myfitnessmeter.onrender.com)
 
 - 🌱 I’m currently learning to be an **AWS certified developer**
