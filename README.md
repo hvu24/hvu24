@@ -2,6 +2,7 @@
 <h3 align="center">A software engineer with a background in biology from the San Francisco, Bay Area</h3>
 <h3 align="center"> Cat dad | Fitness enthusiast | Data visualization addict</h3>
 
+
 - 🔭 I’m currently working on [MyFitnessMeter](https://myfitnessmeter.onrender.com)
 
 - 🌱 I’m currently learning to be an **AWS certified developer**
