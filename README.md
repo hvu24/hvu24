@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A software engineer with a background in biotech from the San Francisco, Bay Area</h3>
-<h3 align="center"> Cat dad | Fitness enthusiast | Data visualization addict</h3>
+<h3 align="center"> Cat dad | Fitness enthusiast | Music Addict | Data visualization enjoyer</h3>
 
 
 - 🔭 I’m currently working on [Sound Heaven](https://sound-cloud-clone-ahv.onrender.com/)
