@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A software engineer with a background in biotech from the San Francisco, Bay Area</h3>
+<h3 align="center">What I love most about software engineering is the creativity involved in finding elegant solutions to problems and the feeling you get after solving a bug</h3>
 <h3 align="center"> Cat dad | Fitness enthusiast | Music addict | Data visualization enjoyer</h3>
 
 
