@@ -32,8 +32,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvu24&show_icons=true&locale=en&layout=compact" alt="hvu24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvu24&show_icons=true&locale=en" alt="hvu24" /></p>
 
 
