@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Sound Heaven](https://sound-cloud-clone-ahv.onrender.com/)
 
-- 🌱 I’m currently enrolled in Georgia Tech's **CSE-6040: Computing for Data Analytics **
+- 🌱 I’m currently enrolled in Georgia Tech's **CSE-6040: Computing for Data Analytics**
 
 - 👨‍💻 All of my projects are available at my [portfolio page](https://hvu24.github.io/)
 
